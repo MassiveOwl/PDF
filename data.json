@@ -1,0 +1,80 @@
+[
+    {
+        "dataSource": "Number of cheeses sold per month",
+        "dataPoints": [
+            {
+                "Cheddars": 130.0,
+                "Bries": 75.0,
+                "Month": "January"
+            },
+            {
+                "Cheddars": 135.0,
+                "Bries": 75.0,
+                "Month": "February"
+            },
+            {
+                "Cheddars": 110.0,
+                "Bries": 85.0,
+                "Month": "March"
+            },
+            {
+                "Cheddars": 150.0,
+                "Bries": 65.0,
+                "Month": "April"
+            },
+            {
+                "Cheddars": 140.0,
+                "Bries": 110.0,
+                "Month": "May"
+            },
+            {
+                "Cheddars": 145.0,
+                "Bries": 90.0,
+                "Month": "June"
+            },
+            {
+                "Cheddars": 140.0,
+                "Bries": 105.0,
+                "Month": "July"
+            },
+            {
+                "Cheddars": 120.0,
+                "Bries": 100.0,
+                "Month": "August"
+            }
+        ]
+    },
+    {
+        "dataSource": "Morons falling over per weekday",
+        "dataPoints": [
+            {
+                "Number of Falls": 80.0,
+                "Weekday": "Monday"
+            },
+            {
+                "Number of Falls": 45.0,
+                "Weekday": "Tuesday"
+            },
+            {
+                "Number of Falls": 55.0,
+                "Weekday": "Wednesday"
+            },
+            {
+                "Number of Falls": 40.0,
+                "Weekday": "Thursday"
+            },
+            {
+                "Number of Falls": 210.0,
+                "Weekday": "Friday"
+            },
+            {
+                "Number of Falls": 220.0,
+                "Weekday": "Saturday"
+            },
+            {
+                "Number of Falls": 140.0,
+                "Weekday": "Sunday"
+            }
+        ]
+    }
+]

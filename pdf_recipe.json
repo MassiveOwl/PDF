@@ -1,0 +1,361 @@
+{
+    "pdfSettings": {
+        "pageOrientation": "P",
+        "pageUnits": "pt",
+        "pageHeight": 841.89,
+        "pageWidth": 595.28,
+        "pageLeftAndRightMargins": 30.0,
+        "pageTopMargin": 30.0,
+        "watermark": {
+            "R": 213,
+            "G": 223,
+            "B": 250
+        },
+        "pdfName": "naming_the_pdf_from_the_recipe",
+        "pdfLocation": "/Users/oliverwoodcock/Documents/Testing and Sharing/go/go/src/Tutorials/PDF/"
+    },
+    "pdfContents": [
+        {
+            "itemType": "textBlock",
+            "text": "Creating pretty PDFs from a configuration file and a file with datasources",
+            "xPosition": 0.0,
+            "yPosition": 0.0,
+            "width": 535.28,
+            "font": {
+                "colour": {
+                    "R": 0,
+                    "G": 0,
+                    "B": 0
+                },
+                "size": 25.0,
+                "style": "B",
+                "alignment": "CM",
+                "cellBorders": {
+                    "style": "off"
+                }
+            }
+        },
+        {
+            "itemType": "verticalBar",
+            "dataSource": "Number of cheeses sold per month",
+            "dataSeries": "Cheddars",
+            "dataSeriesCategory": "Month",
+            "xPosition": 0.0,
+            "yPosition": 70.0,
+            "width": 257.64,
+            "height": 200.0,
+            "chartSettings": {
+                "chartTitle": {
+                    "text": "Cheddars sold per month",
+                    "distanceFromTopOfChartArea": 10.0,
+                    "font": {
+                        "colour": {
+                            "R": 70,
+                            "G": 70,
+                            "B": 70
+                        },
+                        "style": "B",
+                        "size": 10.0,
+                        "lineSpacing": 3.0,
+                        "cellFill": {
+                            "filled": true,
+                            "colour": {
+                                "R": 213,
+                                "G": 223,
+                                "B": 250
+                            }
+                        }
+                    }
+                },
+                "watermarkFormat": {
+                    "style": "FD",
+                    "fillColour": {
+                        "R": 248,
+                        "G": 248,
+                        "B": 248
+                    },
+                    "borderColour": {
+                        "R": 100,
+                        "G": 130,
+                        "B": 120
+                    }
+                },
+                "seriesFormat": {
+                    "style": "FD",
+                    "fillColour": {
+                        "R": 228,
+                        "G": 155,
+                        "B": 185
+                    },
+                    "borderColour": {
+                        "R": 102,
+                        "G": 52,
+                        "B": 115
+                    }
+                },
+                "axisFormat": {
+                    "lineWidth": 0.3,
+                    "lineColour": {
+                        "R": 82,
+                        "G": 57,
+                        "B": 66
+                    }
+                },
+                "distanceFromTopOfChartArea": 20.0,
+                "distanceFromBottomOfChartArea": 20.0,
+                "distanceFromSidesOfChartArea": 22.0,
+                "numberOfYAxisTicks": 5.0,
+                "gapBetweenBars": 5.0,
+                "tickMarkLength": 5.0,
+                "chartTextFont": {
+                    "colour": {
+                        "R": 70,
+                        "G": 70,
+                        "B": 70
+                    },
+                    "size": 5.5,
+                    "style": "B",
+                    "lineSpacing": 3.0,
+                    "cellFill": {
+                        "filled": true,
+                        "colour": {
+                            "R": 255,
+                            "G": 255,
+                            "B": 250
+                        }
+                    },
+                    "titleFont": {
+                        "colour": {
+                            "R": 255,
+                            "G": 255,
+                            "B": 255
+                        },
+                        "size": 10.0,
+                        "style": "B",
+                        "cellFill": {
+                            "filled": true,
+                            "colour": {
+                                "R": 100,
+                                "G": 30,
+                                "B": 120
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "itemType": "verticalBar",
+            "dataSource": "Number of cheeses sold per month",
+            "dataSeries": "Bries",
+            "dataSeriesCategory": "Month",
+            "xPosition": 277.64,
+            "yPosition": 70.0,
+            "width": 257.64,
+            "height": 200.0,
+            "chartSettings": {
+                "chartTitle": {
+                    "text": "Bries sold per month",
+                    "distanceFromTopOfChartArea": 10.0,
+                    "font": {
+                        "colour": {
+                            "R": 70,
+                            "G": 70,
+                            "B": 70
+                        },
+                        "style": "B",
+                        "size": 10.0,
+                        "lineSpacing": 3.0,
+                        "cellFill": {
+                            "filled": true,
+                            "colour": {
+                                "R": 213,
+                                "G": 223,
+                                "B": 250
+                            }
+                        }
+                    }
+                },
+                "watermarkFormat": {
+                    "style": "FD",
+                    "fillColour": {
+                        "R": 248,
+                        "G": 248,
+                        "B": 248
+                    },
+                    "borderColour": {
+                        "R": 100,
+                        "G": 130,
+                        "B": 120
+                    }
+                },
+                "seriesFormat": {
+                    "style": "FD",
+                    "fillColour": {
+                        "R": 228,
+                        "G": 155,
+                        "B": 185
+                    },
+                    "borderColour": {
+                        "R": 102,
+                        "G": 52,
+                        "B": 115
+                    }
+                },
+                "axisFormat": {
+                    "lineWidth": 0.3,
+                    "lineColour": {
+                        "R": 82,
+                        "G": 57,
+                        "B": 66
+                    }
+                },
+                "distanceFromTopOfChartArea": 20.0,
+                "distanceFromBottomOfChartArea": 20.0,
+                "distanceFromSidesOfChartArea": 22.0,
+                "numberOfYAxisTicks": 5.0,
+                "gapBetweenBars": 5.0,
+                "tickMarkLength": 5.0,
+                "chartTextFont": {
+                    "colour": {
+                        "R": 70,
+                        "G": 70,
+                        "B": 70
+                    },
+                    "size": 5.5,
+                    "style": "B",
+                    "lineSpacing": 3.0,
+                    "cellFill": {
+                        "filled": true,
+                        "colour": {
+                            "R": 255,
+                            "G": 255,
+                            "B": 250
+                        }
+                    },
+                    "titleFont": {
+                        "colour": {
+                            "R": 255,
+                            "G": 255,
+                            "B": 255
+                        },
+                        "size": 10.0,
+                        "style": "B",
+                        "cellFill": {
+                            "filled": true,
+                            "colour": {
+                                "R": 100,
+                                "G": 30,
+                                "B": 120
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "itemType": "verticalBar",
+            "dataSource": "Morons falling over per weekday",
+            "dataSeries": "Number of Falls",
+            "dataSeriesCategory": "Weekday",
+            "xPosition": 0.0,
+            "yPosition": 300.0,
+            "width": 535.28,
+            "height": 200.0,
+            "chartSettings": {
+                "chartTitle": {
+                    "text": "Look at this fancy chart title for the number of morons falling over per weekday",
+                    "distanceFromTopOfChartArea": 10.0,
+                    "font": {
+                        "colour": {
+                            "R": 70,
+                            "G": 70,
+                            "B": 70
+                        },
+                        "style": "B",
+                        "size": 10.0,
+                        "lineSpacing": 3.0,
+                        "cellFill": {
+                            "filled": true,
+                            "colour": {
+                                "R": 213,
+                                "G": 223,
+                                "B": 250
+                            }
+                        }
+                    }
+                },
+                "watermarkFormat": {
+                    "style": "FD",
+                    "fillColour": {
+                        "R": 248,
+                        "G": 248,
+                        "B": 248
+                    },
+                    "borderColour": {
+                        "R": 100,
+                        "G": 130,
+                        "B": 120
+                    }
+                },
+                "seriesFormat": {
+                    "style": "F",
+                    "fillColour": {
+                        "R": 230,
+                        "G": 137,
+                        "B": 50
+                    }
+                },
+                "axisFormat": {
+                    "lineWidth": 0.3,
+                    "lineColour": {
+                        "R": 82,
+                        "G": 57,
+                        "B": 66
+                    }
+                },
+                "distanceFromTopOfChartArea": 20.0,
+                "distanceFromBottomOfChartArea": 20.0,
+                "distanceFromSidesOfChartArea": 27.0,
+                "numberOfYAxisTicks": 5.0,
+                "gapBetweenBars": 5.0,
+                "tickMarkLength": 5.0,
+                "chartTextFont": {
+                    "colour": {
+                        "R": 70,
+                        "G": 70,
+                        "B": 70
+                    },
+                    "size": 8.0,
+                    "style": "B",
+                    "lineSpacing": 3.0,
+                    "cellFill": {
+                        "filled": true,
+                        "colour": {
+                            "R": 255,
+                            "G": 255,
+                            "B": 250
+                        }
+                    },
+                    "titleFont": {
+                        "colour": {
+                            "R": 255,
+                            "G": 255,
+                            "B": 255
+                        },
+                        "size": 10.0,
+                        "style": "B",
+                        "cellFill": {
+                            "filled": true,
+                            "colour": {
+                                "R": 100,
+                                "G": 30,
+                                "B": 120
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
